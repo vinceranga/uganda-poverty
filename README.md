@@ -6,7 +6,7 @@ Stanford Sustainability & Artificial Intelligence Lab
 
 Under mentorship of Neal Jean, Stefano Ermon, and Marshall Burke.
 
-July 2018 - now, updated 12/21/2018
+July 2018 - now; updated 12/21/2018
 
 
 Operating up-to-date object detection models on high-resolution satellite imagery to identify indicators of poverty and economic inequality within Uganda. The target of this project is to use machine learning models to extract metrics such as distributions of house size, house density over the area, house material, car size, car density over the area ... and identify subtle links between metrics that are indicators of poverty. These relations are then used to predict levels of poverty within subregions in Uganda.
