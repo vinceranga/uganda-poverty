@@ -15,6 +15,10 @@ _Why is it important to analyze these metrics? How does the correlation between 
 
 Informal poster available at: https://drive.google.com/file/d/1UOCmL-kd8EUbzdqqdAYX16QGOyzbMIEH/view?usp=sharing
 
+![alt text][https://github.com/vinceranga/uganda-poverty-project/blob/master/poster/uganda-survey.png]
+
+![alt_text][https://github.com/vinceranga/uganda-poverty-project/blob/master/test-out/dg_lsms_uganda_1000x1000_21430002_479_tops5x5-1.jpeg]
+
 This work is inspired by Jean et al.'s research on nighttime lighting to predict poverty: http://science.sciencemag.org/content/353/6301/790
 
 These scripts are typically run on an instance on the Google Cloud Platform.
