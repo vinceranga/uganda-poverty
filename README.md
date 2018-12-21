@@ -17,6 +17,8 @@ Informal poster available at: https://drive.google.com/file/d/1UOCmL-kd8EUbzdqqd
 
 This work is inspired by Jean et al.'s research on nighttime lighting to predict poverty: http://science.sciencemag.org/content/353/6301/790
 
+These scripts are typically run on an instance on the Google Cloud Platform.
+
 The Jupyter Notebooks can be opened in the order they are described below to provide a sense of the flow and check out the visualisations.
 
 -----------------------------------------------------------------------------------------------------------------------
