@@ -33,3 +33,11 @@ cluster_villages.ipynb considers the 10km x 10km region formed around a survey p
 - implements DBSCAN clustering (chosen for its relevant properties, beautifully visualized at https://scikit-learn.org/stable/auto_examples/cluster/plot_cluster_comparison.html) to identify the _k=5_ largest clusters of buildings
 - filters out the buildings not a part of these five clusters (denoising)
 - begins extracting metrics from this data, e.g. the density of houses within these clusters
+
+-----------------------------------------------------------------------------------------------------------------------
+
+utils.py contains utility functions for the YOLOv3 object detection model.
+
+hyper.py contains hyperparameters, and is accessed by all of the Jupyter Notebooks.
+
+The weights for the YOLO model are too heavy to be uploaded here. (Unlike the weights I lift at the gym :/)
