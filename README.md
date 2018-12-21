@@ -9,11 +9,13 @@ Under mentorship of Neal Jean, Stefano Ermon, and Marshall Burke.
 July 2018 - now, updated 12/21/2018
 
 
-Operating up-to-date object detection models on high-resolution satellite imagery to identify indicators of poverty and economic inequality within Uganda. The target of this project is to use machine learning models to extract metrics such as distributions of house size, house density over the area, house material, car size, car density over the area ... and identify subtle links between metrics that are indicators of poverty.
+Operating up-to-date object detection models on high-resolution satellite imagery to identify indicators of poverty and economic inequality within Uganda. The target of this project is to use machine learning models to extract metrics such as distributions of house size, house density over the area, house material, car size, car density over the area ... and identify subtle links between metrics that are indicators of poverty. These relations are then used to predict levels of poverty within subregions in Uganda.
 
 _Why is it important to analyze these metrics? How does the correlation between density of houses and density of cars matter?_ Consider a region that is primarily a slum. It will have a high density of houses, small average house size, lack of water bodies or green regions, and low density of cars (which typically do not fit inside slums). Additionally, the most overwhelming color will match the roofing style, which is typically grey aluminum sheets. The model will connect these variables to predict that the region is a slum, and thus have a high density of people but a low average income. This is more evident example, but a machine learning model will be able to pick up on subtelties that may be of significant use to policy-makers and international aid efforts.
 
 Informal poster available at: https://drive.google.com/file/d/1UOCmL-kd8EUbzdqqdAYX16QGOyzbMIEH/view?usp=sharing
+
+This work is inspired by Jean et al.'s research on nighttime lighting to predict poverty: http://science.sciencemag.org/content/353/6301/790
 
 The Jupyter Notebooks can be opened in the order they are described below to provide a sense of the flow and check out the visualisations.
 
